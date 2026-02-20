@@ -64,9 +64,9 @@ To achieve real-time performance:
 - Stores image + metadata asynchronously  
 
 **This ensures:**
-- ✔ Zero lag live feed  
-- ✔ Maximum FPS  
-- ✔ Non-blocking disk operations
+- Zero lag live feed  
+- Maximum FPS  
+- Non-blocking disk operations
 
 ---
 ## Dataset
@@ -87,10 +87,11 @@ Dataset includes:
 ---
 ## Performance
 
-- ✔ Real-time CPU inference on Raspberry Pi  
-- ✔ Stable continuous detection  
-- ✔ Accurate multi-class detection  
-- ✔ Low-cost deployment
+-  Real-time CPU inference on Raspberry Pi  
+-  Stable continuous detection  
+-  Accurate multi-class detection  
+-  Low-cost deployment
+  
   ---
 
 ## Use Cases
