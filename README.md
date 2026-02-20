@@ -112,6 +112,11 @@ Dataset includes:
 - Vehicle-mounted large-scale deployment
 
 ---
-  
+## Authors
+
+- Jagasuriya S (ECE) - jagasuriyas.ece2023@citchennai.net
+- Deepak Raj K (ECE) - deepakrajk.ece2023@citchennai.net
+- Inbaselvan Ayyanar (CSE) - inbaselvanayyanar.cse2023@citchennai.net
+---
 
 
